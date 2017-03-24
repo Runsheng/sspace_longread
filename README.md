@@ -9,9 +9,10 @@ To use this version of sspace_longread, you need
 install Perl4::CoreLibs
 ```
 
-
 - blasr 5.2p1 (Note, the blasr 5.3 in bioconda have bug in .so link)
 ```
 # easiest way to install blasr is conda
 conda install -c bioconda blasr=5.2p1
+
+# then create a soft link of the blasr to the same folder as the Sspace-Longread.pl
 ```
