@@ -1,9 +1,9 @@
 # sspace_longread
-A modified version of sspac_longread.pl, add compatibility with blasr5.x 
+A modified version of SSPACE-Longread.pl, add compatibility with blasr5.x 
 
 
 To use this version of sspace_longread, you need 
-- perl4 supportted getopts.pl
+- getopts.pl from perl4
 ```
 # in cpan
 install Perl4::CoreLibs
